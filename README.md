@@ -37,7 +37,7 @@ Marketing](https://img.shields.io/badge/Digital%20Marketing-Roadmap-blue)
 ## 🧭 Roadmap
 
 -   [PHASE 1 --- DIGITAL MARKETING
-    FOUNDATION][PHASE 1 — DIGITAL MARKETING FOUNDATION](./01-foundation/) 
+    FOUNDATION][PHASE 1(./01-foundation/) 
 -   [PHASE 2 --- AI MARKETING BRAIN](#phase-2--ai-marketing-brain)
 -   [PHASE 3 --- MARKET RESEARCH](#phase-3--market-research)
 -   [PHASE 4 --- KEYWORD RESEARCH](#phase-4--keyword-research)
